@@ -24,3 +24,5 @@ The main purposes of this blog website are listed here:
 
 Visit [my LinkedIn profile](https://www.linkedin.com/in/nathanaeltamirat/) to see more.
 
+My resume can be found [here](/assets/img/resume.pdf).  
+
