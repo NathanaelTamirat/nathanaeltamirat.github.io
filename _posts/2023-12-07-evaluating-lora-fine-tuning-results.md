@@ -4,7 +4,7 @@ title: 'Evaluating LoRA Fine-Tuning Results'
 date: 2023-12-07 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-062'
+guid: ' 062'
 permalink: /article/evaluating-lora-fine-tuning-results/
 custom_permalink:
     - article/evaluating-lora-fine-tuning-results/

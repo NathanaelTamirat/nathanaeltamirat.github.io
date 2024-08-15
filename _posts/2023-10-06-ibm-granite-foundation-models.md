@@ -4,7 +4,7 @@ title: 'New Decoder Foundation Models from IBM'
 date: 2023-10-06 01:19:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-051'
+guid: ' 051'
 permalink: /article/ibm-granite-foundation-models/
 custom_permalink:
     - article/ibm-granite-foundation-models/

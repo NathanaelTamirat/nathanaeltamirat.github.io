@@ -4,7 +4,7 @@ title: 'Semantic Searches with Elasticsearch'
 date: 2023-11-01 01:19:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-055'
+guid: ' 055'
 permalink: /article/semantic-search-vector-eslasticsearch/
 custom_permalink:
     - article/semantic-search-vector-eslasticsearch/

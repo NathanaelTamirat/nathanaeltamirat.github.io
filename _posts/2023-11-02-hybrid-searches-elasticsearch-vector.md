@@ -4,7 +4,7 @@ title: 'Hybrid and Vector Searches with Elasticsearch'
 date: 2023-11-02 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-056'
+guid: ' 056'
 permalink: /article/hybrid-searches-elasticsearch-vector/
 custom_permalink:
     - article/hybrid-searches-elasticsearch-vector/

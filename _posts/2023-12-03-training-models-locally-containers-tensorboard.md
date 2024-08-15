@@ -4,7 +4,7 @@ title: 'Training Models locally via Containers'
 date: 2023-12-03 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-059'
+guid: ' 059'
 permalink: /article/training-models-locally-containers-tensorboard/
 custom_permalink:
     - article/training-models-locally-containers-tensorboard/

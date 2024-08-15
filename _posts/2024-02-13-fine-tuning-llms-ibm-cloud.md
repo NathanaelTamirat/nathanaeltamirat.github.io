@@ -4,12 +4,12 @@ title: 'Fine-tuning LLMs via Hugging Face on IBM Cloud'
 date: 2024-02-13 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-064'
+guid: ''
 permalink: /article/fine-tuning-llms-ibm-cloud/
 custom_permalink:
     - article/fine-tuning-llms-ibm-cloud/
 image: /assets/img/2024/02/v100.png
-pin: true
+pin: False
 ---
 
 *The speed of innovation in the AI community is amazing. What didn't seem to be possible a year ago, is standard today. Fine-tuning is a great example. With the latest progress, you can fine-tune smaller models with cheap GPUs in little time. This post describes how to tune Mistral 7b on the IBM Cloud.*

@@ -4,7 +4,7 @@ title: 'Accessing Watsonx Models from LangChain'
 date: 2023-09-20 01:19:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-050'
+guid: ' 050'
 permalink: /article/watsonx-langchain/
 custom_permalink:
     - article/watsonx-langchain/

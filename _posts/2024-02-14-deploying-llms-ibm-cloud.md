@@ -4,7 +4,7 @@ title: 'Deploying LLMs via Hugging Face on IBM Cloud'
 date: 2024-02-14 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-065'
+guid: ' 065'
 permalink: /article/deploying-llms-ibm-cloud/
 custom_permalink:
     - article/deploying-llms-ibm-cloud/

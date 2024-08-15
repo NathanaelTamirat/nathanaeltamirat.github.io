@@ -4,7 +4,7 @@ title: 'Generating synthetic Data with Mixtral'
 date: 2024-03-06 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-067'
+guid: ' 067'
 permalink: /article/generating-synthetic-data-mixtral/
 custom_permalink:
     - article/generating-synthetic-data-mixtral/

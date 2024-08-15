@@ -4,7 +4,7 @@ title: 'Tokenizing Text for Vector Searches with Java'
 date: 2023-10-31 01:19:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-054'
+guid: ' 054'
 permalink: /article/tokenizing-text-java-vector-searches-djl/
 custom_permalink:
     - article/tokenizing-text-java-vector-searches-djl/

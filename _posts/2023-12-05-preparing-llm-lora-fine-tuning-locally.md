@@ -4,7 +4,7 @@ title: 'Preparing LLM LoRA Fine-Tuning locally'
 date: 2023-12-05 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-060'
+guid: ' 060'
 permalink: /article/preparing-llm-lora-fine-tuning-locally/
 custom_permalink:
     - article/preparing-llm-lora-fine-tuning-locally/

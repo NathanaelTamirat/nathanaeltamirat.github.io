@@ -4,7 +4,7 @@ title: 'Deploying a Virtual Server with GPU in the IBM Cloud'
 date: 2023-12-04 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-058'
+guid: ' 058'
 permalink: /article/deploying-virtual-server-gpu-ibm-cloud/
 custom_permalink:
     - article/deploying-virtual-server-gpu-ibm-cloud/

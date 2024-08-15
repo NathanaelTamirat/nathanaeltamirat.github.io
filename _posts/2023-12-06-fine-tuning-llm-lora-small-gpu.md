@@ -4,7 +4,7 @@ title: 'Fine-Tuning LLMs with LoRA on a small GPU'
 date: 2023-12-06 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-061'
+guid: ' 061'
 permalink: /article/fine-tuning-llm-lora-small-gpu/
 custom_permalink:
     - article/fine-tuning-llm-lora-small-gpu/

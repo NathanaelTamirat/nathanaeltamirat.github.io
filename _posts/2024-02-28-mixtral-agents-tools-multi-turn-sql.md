@@ -4,7 +4,7 @@ title: 'Mixtral Agents with Tools for Multi-turn Conversations'
 date: 2024-02-28 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-066'
+guid: ' 066'
 permalink: /article/mixtral-agents-tools-multi-turn-sql/
 custom_permalink:
     - article/mixtral-agents-tools-multi-turn-sql/

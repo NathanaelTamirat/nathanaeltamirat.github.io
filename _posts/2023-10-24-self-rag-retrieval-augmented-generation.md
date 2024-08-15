@@ -4,7 +4,7 @@ title: 'Enhancements of LLMs via Self-Reflections'
 date: 2023-10-24 01:19:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-053'
+guid: ' 053'
 permalink: /article/self-rag-retrieval-augmented-generation/
 custom_permalink:
     - article/self-rag-retrieval-augmented-generation/

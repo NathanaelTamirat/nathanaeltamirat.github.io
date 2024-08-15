@@ -4,7 +4,7 @@ title: 'Metrics to evaluate Search Results'
 date: 2023-11-07 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-057'
+guid: ' 057'
 permalink: /article/search-evaluations/
 custom_permalink:
     - article/search-evaluations/

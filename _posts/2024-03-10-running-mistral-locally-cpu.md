@@ -4,11 +4,12 @@ title: 'Running Mistral on CPU via llama.cpp'
 date: 2024-03-10 00:01:00 +0100
 author: 'Natnael Tamirat'
 layout: post
-guid: 'heidloff.net/nh-068'
+guid: ''
 permalink: /article/running-mistral-locally-cpu/
 custom_permalink:
     - article/running-mistral-locally-cpu/
 image: /assets/img/2024/03/llamacpp.png
+pin: True
 ---
 
 *Via quantization LLMs can run faster and on smaller hardware. This post describes how to run Mistral 7b on an older MacBook Pro without GPU.*
